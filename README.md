@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @iliqiliev
 - 🌱 I’m currently learning Python and Java.
+- 🤓 I use Arch BTW
